@@ -1,0 +1,13 @@
+matplotlib
+jupyter
+nb_conda
+nltk
+pandas
+pomegranate
+pydot
+pydotplus
+python
+scikit-learn
+scipy
+tqdm
+udacity-pa
