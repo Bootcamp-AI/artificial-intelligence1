@@ -1,13 +1,13 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "image": "mcr.microsoft.com/devcontainers/python:0.203.5-3.6-bullseye",
     "hostRequirements": {
       "cpus": 2
     },
     "updateContentCommand": "",
-    "postCreateCommand": "python3 -m pip install -r requirements.txt",
+    "postCreateCommand": "pip3 install --user -r requirements.txt",
     "customizations": {
       "codespaces": {
-        "openFiles": []
+        "openFiles": ["Projects/4_HMM Tagger/HMM Tagger.ipynb"]
       },
       "vscode": {
         "extensions": [
