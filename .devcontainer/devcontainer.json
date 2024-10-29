@@ -7,7 +7,7 @@
     "postCreateCommand": "pip3 install --user -r requirements.txt",
     "customizations": {
       "codespaces": {
-        "openFiles": ["Projects/4_HMM Tagger/HMM Tagger.ipynb"]
+        "openFiles": ["Projects/4_HMM Tagger/readme.md"]
       },
       "vscode": {
         "extensions": [

@@ -14,6 +14,8 @@ Alternatively, you can download a copy of the project from GitHub and then run a
 
 **NOTES:** These steps are **not** required if you are using the project Workspace.
 
+**NOTES:** Use Python 3.6.15
+
 0. (Optional) The provided code includes a function for drawing the network graph that depends on [GraphViz](http://www.graphviz.org/). You must manually install the GraphViz executable for your OS before the steps below or the drawing function will not work.
 
 1. Open a terminal and clone the project repository:
